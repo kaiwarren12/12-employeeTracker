@@ -1,0 +1,26 @@
+{
+  "name": "12-employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queries.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiwarren12/12-employeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiwarren12/12-employeeTracker/issues"
+  },
+  "homepage": "https://github.com/kaiwarren12/12-employeeTracker#readme"
+}
